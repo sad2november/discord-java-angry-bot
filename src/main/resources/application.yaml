@@ -1,0 +1,5 @@
+discord:
+  token: #token
+  channels: #textchannel id with channel ids to work with
+  reactions: #textchannel id with reactions
+  ratio: #textchannel id with ratio
